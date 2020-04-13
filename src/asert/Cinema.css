@@ -1,0 +1,15 @@
+.am-navbar-light {
+    background-color: red;
+    color: #108ee9;
+}
+.am-search {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 44px;
+    padding: 0 8px;
+    width: 80%;
+    float: right;
+    overflow: hidden;
+    background-color: #efeff4;
+}
